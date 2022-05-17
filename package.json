@@ -1,0 +1,10 @@
+{
+    "name": "com.jesseemerick.ngeohash",
+    "displayName": "NGeoHash",
+    "version": "1.0.0",
+    "unity": "2020.3",
+    "description": "This is a line for line port to C# of Node-Geohash https://github.com/sunng87/node-geohash",
+    "keywords": ["geohash", "unity"],
+    "category": "Libraries",
+    "dependencies": {}
+}
